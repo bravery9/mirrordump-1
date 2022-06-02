@@ -121,7 +121,7 @@ Goude 2012, TrueSec
 
                 # Return Object
                 Write-Host "`nIPAddress : $a.$b.$c.$d"
-                Write-Host "Hostname    : $hostname"
+                Write-Host "Hostname    : $hostName"
                 Write-Host "Ports       : $openPorts"
 
             }
